@@ -1,0 +1,8 @@
+{
+    "name": "chal",
+    "description": "cal onk bese dam",
+    "price": 300,
+    "unit": "kg",
+    "quantity": 20,
+    "status": "in-stock"
+}
